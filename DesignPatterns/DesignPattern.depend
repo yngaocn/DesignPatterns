@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1420899761 source:f:\work\codeblocks\designpattern\main.cpp
+	<iostream>
+	"Proxy.h"
+	"SimpleFactory.h"
+	"FactoryMethod.h"
+	"Prototype.h"
+	"TemplateMethod.h"
+	"Facade.h"
+	"Builder.h"
+	"Observer.h"
+	"AbstractFactory.h"
+	"State.h"
+	"Adapter.h"
+
+1419519189 source:f:\work\codeblocks\designpattern\src\proxy.cpp
+	"Proxy.h"
+
+1419519159 f:\work\codeblocks\designpattern\include\proxy.h
+	<iostream>
+
+1420388960 f:\work\codeblocks\designpattern\include\simplefactory.h
+	<string>
+	<iostream>
+
+1420388951 source:f:\work\codeblocks\designpattern\src\simplefactory.cpp
+	"SimpleFactory.h"
+
+1420389064 source:f:\work\codeblocks\designpattern\src\factorymethod.cpp
+	"FactoryMethod.h"
+
+1420389009 f:\work\codeblocks\designpattern\include\factorymethod.h
+	<iostream>
+
+1417949009 source:f:\work\codeblocks\designpattern\src\prototype.cpp
+	"Prototype.h"
+
+1417948954 f:\work\codeblocks\designpattern\include\prototype.h
+	<iostream>
+	<string>
+	<string.h>
+
+1417976853 source:f:\work\codeblocks\designpattern\src\templatemethod.cpp
+	"TemplateMethod.h"
+	<iostream>
+
+1417976662 f:\work\codeblocks\designpattern\include\templatemethod.h
+
+1418057366 source:f:\work\codeblocks\designpattern\src\facade.cpp
+	"Facade.h"
+	<iostream>
+
+1418057291 f:\work\codeblocks\designpattern\include\facade.h
+
+1418063200 f:\work\codeblocks\designpattern\include\builder.h
+	<list>
+	<string>
+
+1419519545 source:f:\work\codeblocks\designpattern\src\builder.cpp
+	"Builder.h"
+	<iostream>
+
+1419519814 f:\work\codeblocks\designpattern\include\observer.h
+	<vector>
+	<string>
+
+1419520541 source:f:\work\codeblocks\designpattern\src\observer.cpp
+	"Observer.h"
+	<iostream>
+
+1420472042 source:f:\work\codeblocks\designpattern\src\abstractfactory.cpp
+	"AbstractFactory.h"
+	<iostream>
+
+1420900657 f:\work\codeblocks\designpattern\include\abstractfactory.h
+
+1420893382 source:f:\work\codeblocks\designpattern\src\state.cpp
+	"State.h"
+	<iostream>
+
+1420893258 f:\work\codeblocks\designpattern\include\state.h
+
+1420900553 source:f:\work\codeblocks\designpattern\src\adapter.cpp
+	"Adapter.h"
+	<iostream>
+
+1420900523 f:\work\codeblocks\designpattern\include\adapter.h
+
