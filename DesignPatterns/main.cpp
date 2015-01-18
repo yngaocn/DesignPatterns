@@ -10,6 +10,7 @@
 #include "AbstractFactory.h"
 #include "State.h"
 #include "Adapter.h"
+#include "Memento.h"
 
 using namespace std;
 
@@ -47,6 +48,9 @@ int main()
 
     //Test Adapter
     Adapter::TestAdapter();
+
+    //Test Memento
+    Memento::TestMemento();
 
     return 0;
 }

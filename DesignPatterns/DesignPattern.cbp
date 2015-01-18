@@ -39,6 +39,7 @@
 		<Unit filename="include/Builder.h" />
 		<Unit filename="include/Facade.h" />
 		<Unit filename="include/FactoryMethod.h" />
+		<Unit filename="include/Memento.h" />
 		<Unit filename="include/Observer.h" />
 		<Unit filename="include/Prototype.h" />
 		<Unit filename="include/Proxy.h" />
@@ -51,6 +52,7 @@
 		<Unit filename="src/Builder.cpp" />
 		<Unit filename="src/Facade.cpp" />
 		<Unit filename="src/FactoryMethod.cpp" />
+		<Unit filename="src/Memento.cpp" />
 		<Unit filename="src/Observer.cpp" />
 		<Unit filename="src/Prototype.cpp" />
 		<Unit filename="src/Proxy.cpp" />

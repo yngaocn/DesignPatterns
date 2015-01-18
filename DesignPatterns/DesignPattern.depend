@@ -86,3 +86,97 @@
 
 1420900523 f:\work\codeblocks\designpattern\include\adapter.h
 
+1421489197 source:f:\project\github\designpatterns\designpatterns\main.cpp
+	<iostream>
+	"Proxy.h"
+	"SimpleFactory.h"
+	"FactoryMethod.h"
+	"Prototype.h"
+	"TemplateMethod.h"
+	"Facade.h"
+	"Builder.h"
+	"Observer.h"
+	"AbstractFactory.h"
+	"State.h"
+	"Adapter.h"
+	"Memento.h"
+
+1419519159 f:\project\github\designpatterns\designpatterns\include\proxy.h
+	<iostream>
+
+1420388960 f:\project\github\designpatterns\designpatterns\include\simplefactory.h
+	<string>
+	<iostream>
+
+1420389009 f:\project\github\designpatterns\designpatterns\include\factorymethod.h
+	<iostream>
+
+1417948954 f:\project\github\designpatterns\designpatterns\include\prototype.h
+	<iostream>
+	<string>
+	<string.h>
+
+1417976662 f:\project\github\designpatterns\designpatterns\include\templatemethod.h
+
+1418057291 f:\project\github\designpatterns\designpatterns\include\facade.h
+
+1418063200 f:\project\github\designpatterns\designpatterns\include\builder.h
+	<list>
+	<string>
+
+1419519814 f:\project\github\designpatterns\designpatterns\include\observer.h
+	<vector>
+	<string>
+
+1420900657 f:\project\github\designpatterns\designpatterns\include\abstractfactory.h
+
+1420893258 f:\project\github\designpatterns\designpatterns\include\state.h
+
+1420900523 f:\project\github\designpatterns\designpatterns\include\adapter.h
+
+1420900670 source:f:\project\github\designpatterns\designpatterns\src\abstractfactory.cpp
+	"AbstractFactory.h"
+	<iostream>
+
+1420900553 source:f:\project\github\designpatterns\designpatterns\src\adapter.cpp
+	"Adapter.h"
+	<iostream>
+
+1419519545 source:f:\project\github\designpatterns\designpatterns\src\builder.cpp
+	"Builder.h"
+	<iostream>
+
+1418057366 source:f:\project\github\designpatterns\designpatterns\src\facade.cpp
+	"Facade.h"
+	<iostream>
+
+1420389064 source:f:\project\github\designpatterns\designpatterns\src\factorymethod.cpp
+	"FactoryMethod.h"
+
+1419520541 source:f:\project\github\designpatterns\designpatterns\src\observer.cpp
+	"Observer.h"
+	<iostream>
+
+1417949009 source:f:\project\github\designpatterns\designpatterns\src\prototype.cpp
+	"Prototype.h"
+
+1419519189 source:f:\project\github\designpatterns\designpatterns\src\proxy.cpp
+	"Proxy.h"
+
+1420388951 source:f:\project\github\designpatterns\designpatterns\src\simplefactory.cpp
+	"SimpleFactory.h"
+
+1420893382 source:f:\project\github\designpatterns\designpatterns\src\state.cpp
+	"State.h"
+	<iostream>
+
+1417976853 source:f:\project\github\designpatterns\designpatterns\src\templatemethod.cpp
+	"TemplateMethod.h"
+	<iostream>
+
+1421489169 source:f:\project\github\designpatterns\designpatterns\src\memento.cpp
+	"Memento.h"
+	<iostream>
+
+1421488949 f:\project\github\designpatterns\designpatterns\include\memento.h
+
