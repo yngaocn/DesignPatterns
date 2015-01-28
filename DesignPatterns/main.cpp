@@ -13,6 +13,10 @@
 #include "Memento.h"
 #include "Composite.h"
 
+
+
+#include "Command.h"
+
 using namespace std;
 
 int main()
@@ -55,6 +59,9 @@ int main()
 
     //Test Composite
     Composite::TestComposite();
+
+    //Test Command
+    Command::TestCommand();
 
     return 0;
 }

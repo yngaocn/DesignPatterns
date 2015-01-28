@@ -37,6 +37,7 @@
 		<Unit filename="include/AbstractFactory.h" />
 		<Unit filename="include/Adapter.h" />
 		<Unit filename="include/Builder.h" />
+		<Unit filename="include/Command.h" />
 		<Unit filename="include/Composite.h" />
 		<Unit filename="include/Facade.h" />
 		<Unit filename="include/FactoryMethod.h" />
@@ -51,6 +52,7 @@
 		<Unit filename="src/AbstractFactory.cpp" />
 		<Unit filename="src/Adapter.cpp" />
 		<Unit filename="src/Builder.cpp" />
+		<Unit filename="src/Command.cpp" />
 		<Unit filename="src/Composite.cpp" />
 		<Unit filename="src/Facade.cpp" />
 		<Unit filename="src/FactoryMethod.cpp" />
