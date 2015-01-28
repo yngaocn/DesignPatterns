@@ -11,6 +11,7 @@
 #include "State.h"
 #include "Adapter.h"
 #include "Memento.h"
+#include "Composite.h"
 
 using namespace std;
 
@@ -51,6 +52,9 @@ int main()
 
     //Test Memento
     Memento::TestMemento();
+
+    //Test Composite
+    Composite::TestComposite();
 
     return 0;
 }

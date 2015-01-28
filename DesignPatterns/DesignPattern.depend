@@ -86,7 +86,7 @@
 
 1420900523 f:\work\codeblocks\designpattern\include\adapter.h
 
-1421489197 source:f:\project\github\designpatterns\designpatterns\main.cpp
+1421686837 source:f:\project\github\designpatterns\designpatterns\main.cpp
 	<iostream>
 	"Proxy.h"
 	"SimpleFactory.h"
@@ -100,6 +100,7 @@
 	"State.h"
 	"Adapter.h"
 	"Memento.h"
+	"Composite.h"
 
 1419519159 f:\project\github\designpatterns\designpatterns\include\proxy.h
 	<iostream>
@@ -174,9 +175,18 @@
 	"TemplateMethod.h"
 	<iostream>
 
-1421489169 source:f:\project\github\designpatterns\designpatterns\src\memento.cpp
+1421489745 source:f:\project\github\designpatterns\designpatterns\src\memento.cpp
 	"Memento.h"
 	<iostream>
 
 1421488949 f:\project\github\designpatterns\designpatterns\include\memento.h
+
+1421689427 source:f:\project\github\designpatterns\designpatterns\src\composite.cpp
+	"Composite.h"
+	<iostream>
+
+1421688991 f:\project\github\designpatterns\designpatterns\include\composite.h
+	<string>
+	<list>
+	<algorithm>
 
