@@ -86,7 +86,7 @@
 
 1420900523 f:\work\codeblocks\designpattern\include\adapter.h
 
-1421686837 source:f:\project\github\designpatterns\designpatterns\main.cpp
+1424333288 source:f:\project\github\designpatterns\designpatterns\main.cpp
 	<iostream>
 	"Proxy.h"
 	"SimpleFactory.h"
@@ -101,6 +101,8 @@
 	"Adapter.h"
 	"Memento.h"
 	"Composite.h"
+	"ChainOfResponsibility.h"
+	"Command.h"
 
 1419519159 f:\project\github\designpatterns\designpatterns\include\proxy.h
 	<iostream>
@@ -189,4 +191,18 @@
 	<string>
 	<list>
 	<algorithm>
+
+1422462979 f:\project\github\designpatterns\designpatterns\include\command.h
+
+1422463261 source:f:\project\github\designpatterns\designpatterns\src\command.cpp
+	"Command.h"
+	<iostream>
+
+1424333344 source:f:\project\github\designpatterns\designpatterns\src\chainofresponsibility.cpp
+	"ChainOfResponsibility.h"
+	<iostream>
+
+1424332802 f:\project\github\designpatterns\designpatterns\include\chainofresponsibility.h
+	<string>
+	<cstddef>
 

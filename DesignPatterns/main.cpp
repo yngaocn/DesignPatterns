@@ -12,7 +12,7 @@
 #include "Adapter.h"
 #include "Memento.h"
 #include "Composite.h"
-
+#include "ChainOfResponsibility.h"
 
 
 #include "Command.h"
@@ -62,6 +62,9 @@ int main()
 
     //Test Command
     Command::TestCommand();
+
+    //ChainOfResponsibility
+    ChainOfResponsibility::TestChainOfResponsibility();
 
     return 0;
 }

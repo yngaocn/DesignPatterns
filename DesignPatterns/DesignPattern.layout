@@ -2,39 +2,9 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="include\Observer.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include\AbstractFactory.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1026" topLine="35" />
-		</Cursor>
-	</File>
-	<File name="include\Command.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="688" topLine="15" />
-		</Cursor>
-	</File>
-	<File name="include\SimpleFactory.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="529" topLine="15" />
-		</Cursor>
-	</File>
-	<File name="src\Command.cpp" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1230" topLine="40" />
-		</Cursor>
-	</File>
-	<File name="src\FactoryMethod.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="171" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="src\Composite.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1397" topLine="80" />
-		</Cursor>
-	</File>
-	<File name="include\FactoryMethod.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="168" topLine="18" />
+			<Cursor1 position="488" topLine="12" />
 		</Cursor>
 	</File>
 	<File name="src\Memento.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -47,31 +17,6 @@
 			<Cursor1 position="3194" topLine="145" />
 		</Cursor>
 	</File>
-	<File name="include\Proxy.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="135" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="include\Prototype.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="397" topLine="5" />
-		</Cursor>
-	</File>
-	<File name="src\AbstractFactory.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="100" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="include\AbstractFactory.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="488" topLine="12" />
-		</Cursor>
-	</File>
-	<File name="src\Builder.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1482" topLine="55" />
-		</Cursor>
-	</File>
 	<File name="src\Prototype.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="969" topLine="36" />
@@ -79,7 +24,7 @@
 	</File>
 	<File name="src\Proxy.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="798" topLine="24" />
+			<Cursor1 position="811" topLine="20" />
 		</Cursor>
 	</File>
 	<File name="src\SimpleFactory.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -87,24 +32,14 @@
 			<Cursor1 position="364" topLine="6" />
 		</Cursor>
 	</File>
+	<File name="include\Adapter.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="241" topLine="0" />
+		</Cursor>
+	</File>
 	<File name="src\State.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="2391" topLine="113" />
-		</Cursor>
-	</File>
-	<File name="src\Adapter.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="245" topLine="4" />
-		</Cursor>
-	</File>
-	<File name="src\TemplateMethod.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1281" topLine="48" />
-		</Cursor>
-	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1194" topLine="38" />
 		</Cursor>
 	</File>
 	<File name="include\Builder.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -112,19 +47,59 @@
 			<Cursor1 position="392" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="src\Facade.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="src\TemplateMethod.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="476" topLine="0" />
+			<Cursor1 position="1281" topLine="48" />
 		</Cursor>
 	</File>
-	<File name="include\Composite.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include\ChainOfResponsibility.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1222" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="include\Command.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="688" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="include\Composite.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="809" topLine="30" />
 		</Cursor>
 	</File>
-	<File name="include\Adapter.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include\Facade.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="241" topLine="0" />
+			<Cursor1 position="306" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\FactoryMethod.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="168" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="include\Memento.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="595" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="include\Observer.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1026" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="include\Prototype.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="397" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="include\Proxy.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="135" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\SimpleFactory.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="529" topLine="15" />
 		</Cursor>
 	</File>
 	<File name="include\State.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -137,15 +112,50 @@
 			<Cursor1 position="827" topLine="13" />
 		</Cursor>
 	</File>
-	<File name="include\Memento.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="595" topLine="29" />
+			<Cursor1 position="1144" topLine="36" />
 		</Cursor>
 	</File>
-	<File name="include\Facade.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="src\AbstractFactory.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="306" topLine="0" />
+			<Cursor1 position="100" topLine="0" />
 		</Cursor>
 	</File>
-	<EditorTabsLayout layout="098bec0054c8f24300002b8200000002=0;DesignPattern:include\Composite.h,1;DesignPattern:src\Composite.cpp,2;DesignPattern:main.cpp,3;DesignPattern:include\Command.h,*4;DesignPattern:src\Command.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=779;besth=311;minw=779;minh=311;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=098bec0054c8f24300002b8200000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+	<File name="src\Adapter.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="245" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="src\Builder.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1482" topLine="55" />
+		</Cursor>
+	</File>
+	<File name="src\ChainOfResponsibility.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1926" topLine="85" />
+		</Cursor>
+	</File>
+	<File name="src\Command.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="911" topLine="38" />
+		</Cursor>
+	</File>
+	<File name="src\Composite.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1835" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Facade.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="476" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\FactoryMethod.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="171" topLine="0" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="08f5940054e593ed000027f900000002=*0;DesignPattern:main.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=779;besth=355;minw=779;minh=355;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=08f5940054e593ed000027f900000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
 </CodeBlocks_layout_file>
